@@ -1,0 +1,139 @@
+////////////////////////////////////////////////////////////////////////////////////////////
+                                         CONTENT
+////////////////////////////////////////////////////////////////////////////////////////////
+
+
+//Tasks 1-5
+\\print, printf...
+\\failed to get console in task2
+----------
+
+//Task 6
+\\BigInteger
+----------
+
+//Task 7
+\\Console calendar
+----------
+
+//Task 8
+\\StringBuilder & append
+----------
+
+//Tasks 9-15
+\\Threads
+----------
+
+//Task 16
+\\Hash & variable parameters
+----------
+
+//Tasks 17-19 / 25-26
+\\Reflection:
+//17: ObjectAnalyzer
+//18: goodCopyOf (array)
+//19: Method.invoke()
+//25: Binary search + InvocationHandler + Method
+
+----------
+
+//Task 20
+\\TimerBeep
+----------
+
+//Task 21
+\\Cloneable, clone(), Employee
+----------
+
+//Task 22
+\\TalkingClock (with beeps, see task20)
+----------
+
+//Task 23
+\\Anonymous inner class
+----------
+
+//Task 24
+\\Static inner class
+----------
+
+//Tasks 26-27
+\\PROXY CLASSES ERROR - learning failed
+----------
+
+//Task 28
+\\Own exception
+----------
+
+//Task 29
+\\Assertion messages
+----------
+
+//Tasks 30-32
+\\Logger
+----------
+
+//Tasks 33-44
+\\Generics
+\\33: methods
+\\34: <T extends Comparable> Pair
+\\35: inheritance of generics(parametrized) classes: ERRORS
+\\36: instances of generics types are raw(not parametrized), or error occurred
+        & generics objects array
+\\37: variable number of args
+\\38: Supplier & constructor
+\\39: Misunderstanding/rebuttal with arrays, ERROR!!!
+\\40: throwAs: make checked exception unchecked
+\\41: the same as 40, but in another thread
+\\42: DANGER SITUATION: Pair = Pair<String>
+\\43: Wildcards
+\\44: Summary: wildcards
+----------
+
+//BTW
+//task42 package
+\\implements comparable twice
+\\MY FAULT: no diamond inheritance
+----------
+
+//Tasks 45-46: Reflection + Generics
+\\45: Reflection 1: Constructor<T>
+\\46: ...
+----------
+
+
+//Tasks 47: Collection
+\\47: duplicate objects in  collections / subList()
+\\48: LinkedList - modifying while iterators are in list
+\\49: Vector
+\\50: HashMap: Alice in Wonderland NOT WORKING
+\\51: TreeSet
+\\52: Priority queue
+\\53: Map (hash/tree)
+\\54: WeakHashMap
+\\55: LinkedHashMap
+\\56: EnumSet/EnumMap
+\\57: IdentityHashMap
+\\58: оболочки и представления
+\\59: unmodifiable
+//ALGORITHMS
+\\60: sorting
+\\61: BitSet
+----------
+//Swing
+\\62: Swing Action
+\\65: calculator
+----------
+
+//University labs
+\\63: lab5 row sum
+\\64: lab6 String processing aaabbccccd -> a3b2c4d1
+\\66: lab7 matrix task
+\\67: lab8 binary tree
+----------
+
+*** lecture 1
+\\XX:
+
+
+

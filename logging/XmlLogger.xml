@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-06T08:17:23.364201700Z</date>
+  <millis>1533543443364</millis>
+  <nanos>201700</nanos>
+  <sequence>0</sequence>
+  <logger>NamelessXML</logger>
+  <level>SEVERE</level>
+  <class>tasks.Task32</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>message1</message>
+</record>
+<record>
+  <date>2018-08-06T08:17:23.384284800Z</date>
+  <millis>1533543443384</millis>
+  <nanos>284800</nanos>
+  <sequence>1</sequence>
+  <logger>NamelessXML</logger>
+  <level>SEVERE</level>
+  <class>tasks.Task32</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>msg 2-2</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-06T08:19:55.205559200Z</date>
+  <millis>1533543595205</millis>
+  <nanos>559200</nanos>
+  <sequence>0</sequence>
+  <logger>NamelessXML</logger>
+  <level>SEVERE</level>
+  <class>tasks.Task32</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>message1</message>
+</record>
+<record>
+  <date>2018-08-06T08:19:55.229622300Z</date>
+  <millis>1533543595229</millis>
+  <nanos>622300</nanos>
+  <sequence>1</sequence>
+  <logger>NamelessXML</logger>
+  <level>SEVERE</level>
+  <class>tasks.Task32</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>msg 2-2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-06T09:39:03.301753200Z</date>
+  <millis>1533548343301</millis>
+  <nanos>753200</nanos>
+  <sequence>0</sequence>
+  <logger>NamelessXML</logger>
+  <level>FINER</level>
+  <class>tasks.Task32</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2018-08-06T09:39:03.321769300Z</date>
+  <millis>1533548343321</millis>
+  <nanos>769300</nanos>
+  <sequence>1</sequence>
+  <logger>NamelessXML</logger>
+  <level>SEVERE</level>
+  <class>tasks.Task32</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>message1</message>
+</record>
+<record>
+  <date>2018-08-06T09:39:03.325781700Z</date>
+  <millis>1533548343325</millis>
+  <nanos>781700</nanos>
+  <sequence>2</sequence>
+  <logger>NamelessXML</logger>
+  <level>SEVERE</level>
+  <class>tasks.Task32</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>msg 2-2</message>
+</record>
+<record>
+  <date>2018-08-06T09:39:03.326783900Z</date>
+  <millis>1533548343326</millis>
+  <nanos>783900</nanos>
+  <sequence>3</sequence>
+  <logger>NamelessXML</logger>
+  <level>FINER</level>
+  <class>tasks.Task32</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>RETURN</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-06T10:16:58.483271700Z</date>
+  <millis>1533550618483</millis>
+  <nanos>271700</nanos>
+  <sequence>1</sequence>
+  <logger>NamelessXML</logger>
+  <level>SEVERE</level>
+  <class>tasks.Task32</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>message1</message>
+</record>
+<record>
+  <date>2018-08-06T10:16:58.505332900Z</date>
+  <millis>1533550618505</millis>
+  <nanos>332900</nanos>
+  <sequence>2</sequence>
+  <logger>NamelessXML</logger>
+  <level>SEVERE</level>
+  <class>tasks.Task32</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>msg 2-2</message>
+</record>
+<record>
+  <date>2018-08-06T10:16:58.505332900Z</date>
+  <millis>1533550618505</millis>
+  <nanos>332900</nanos>
+  <sequence>3</sequence>
+  <logger>NamelessXML</logger>
+  <level>FINER</level>
+  <class>tasks.Task32</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>RETURN</message>
+</record>
+[2018-08-06 14:05:43] [SEVERE ] message1 
+[2018-08-06 14:05:43] [SEVERE ] msg 2-2 
+[2018-08-06 14:05:43] [FINER  ] RETURN 
+[2018-08-22 21:08:26] [SEVERE ] message1 
+[2018-08-22 21:08:26] [SEVERE ] msg 2-2 
+[2018-08-22 21:08:26] [FINER  ] RETURN 
